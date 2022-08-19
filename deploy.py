@@ -1,2 +1,3 @@
 #Deploying python app
-python Hello World
+print('Hello World')
+
